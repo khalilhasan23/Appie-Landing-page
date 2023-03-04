@@ -1,7 +1,7 @@
 # Appie-Landing-page
 Appie landing page 
 
-## [site demo](https://khalilhasan23.github.io/App-Landing-Page/)
+## [site demo](https://khalilhasan23.github.io/Appie-Landing-page/)
 
 
 ## project screenshot
