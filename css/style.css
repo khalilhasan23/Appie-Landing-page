@@ -156,3 +156,63 @@ body{
     color: white;
     background-color: #2b70fa;
 }
+
+.lastof{
+    font-size: 30px;
+    position: absolute;
+    margin-top: 235px;
+    margin-left: -211px;
+    
+}
+
+.opp{
+    transition: all .7s;
+    overflow: hidden;
+}
+
+.opp:hover{
+    opacity: 0.5;
+    transform: scale(1.1);
+}
+
+.face-ic{
+    font-size: 25px;
+    color: white;
+    background-color: #3b5998;
+    border-radius:8px ;
+    padding: 11px;
+}
+
+.go-ic{
+    font-size: 25px;
+    color: white;;
+    background-color:#dd4b39 ;
+    border-radius:8px ;
+    padding: 11px;
+}
+
+.tw-ic{
+    font-size: 25px;
+    color: white;
+    background-color: #1DA1F2;
+    border-radius:8px ;
+    padding: 11px;
+}
+
+.li-ic{
+    font-size: 25px;
+    color: white;
+    background-color: #0077b5;
+    border-radius:8px ;
+    padding: 11px;
+}
+
+
+
+.last-p{
+    cursor: pointer;
+}
+
+.last-p:hover{
+    color: #915ee9;
+}
