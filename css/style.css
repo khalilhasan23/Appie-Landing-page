@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.nav-b a{
+    font-weight: 500;
+    color: black;
+}
+
+.nav-b{
+    background-color: white;
+}
