@@ -11,3 +11,84 @@ body{
 .nav-b{
     background-color: white;
 }
+
+.welcome{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #2b70fa;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.manage{
+    font-size: 60px;
+    line-height: 70px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 22px;
+}
+
+.d-i{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+
+}
+
+.d-a{
+    text-decoration: none;
+    color: #0e1133;
+    text-align: center;
+
+}
+
+.b-ii{
+    background-color: #0e1133;
+    border-style: solid;
+    border-radius: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 22px;
+    padding-right: 22px;
+}
+
+.b-an{
+    background-color: white;
+    border-style: solid;
+    border-radius: 15px;
+    padding: 13px;
+
+}
+
+.ios-ic{
+    color: white;
+}
+
+.b-ii:hover .ios-ic{
+    color: #0e1133;
+}
+
+.b-ii:hover .d-i{
+    color: #0e1133;
+}
+
+.b-ii:hover{
+    background-color: white;
+}
+
+.b-an:hover .an-ic{
+    color: white;
+}
+
+.b-an:hover .d-a{
+    color: white;
+}
+
+.b-an:hover{
+    background-color: #0e1133;
+}
+
+.bafg{
+    background-color: #FF3E66;
+    border-radius: 500px;
+    margin-top: -163px;
+}
